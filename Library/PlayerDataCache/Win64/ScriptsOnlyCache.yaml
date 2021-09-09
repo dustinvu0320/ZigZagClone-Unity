@@ -69,25 +69,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2454}
+      Script: {instanceID: 2456}
     - Class: 114
-      Script: {instanceID: 2650}
+      Script: {instanceID: 2652}
     - Class: 114
-      Script: {instanceID: 3736}
+      Script: {instanceID: 3738}
     - Class: 114
-      Script: {instanceID: 4194}
+      Script: {instanceID: 4196}
     - Class: 114
-      Script: {instanceID: 4852}
+      Script: {instanceID: 4854}
     - Class: 114
-      Script: {instanceID: 4976}
+      Script: {instanceID: 4978}
     - Class: 114
-      Script: {instanceID: 5262}
+      Script: {instanceID: 5264}
     - Class: 114
-      Script: {instanceID: 5712}
+      Script: {instanceID: 5714}
     - Class: 114
-      Script: {instanceID: 6128}
+      Script: {instanceID: 6130}
     - Class: 114
-      Script: {instanceID: 6872}
+      Script: {instanceID: 6874}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -930,4 +930,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Unity/ZigZagClone/ZigZagCloneGame/ZigZagClone.exe
+  playerPath: D:/Github - Projects/ZigZagCloneGame/ZigZagClone.exe

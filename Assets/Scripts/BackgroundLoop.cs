@@ -6,6 +6,7 @@ public class BackgroundLoop : MonoBehaviour
 {
     public static BackgroundLoop instance;
 
+    // Function to add music to background
     private void Awake()
     {
         if (instance == null)
